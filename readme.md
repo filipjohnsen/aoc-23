@@ -4,4 +4,4 @@ Kommer en ny oppgave [her](https://adventofcode.com/) hver dag kl 04:00 fra 1. d
 
 Etter dere har laget en bruker kan dere gå [hit](https://adventofcode.com/2023/leaderboard/private) og skrive inn `2225629-52f82a23` for å bli med på leaderboardet
 
-Lag en ny branch når du skal løse en oppgave så blir det ingen merge conflicts ✌️
+Gjerne lag en egen mappe i repoet for deres egne oppgaven og lag en ny branch når du skal løse en oppgave så blir det ingen merge conflicts ✌️
